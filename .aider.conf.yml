@@ -1,0 +1,7 @@
+read:
+  - CONVENTIONS.md
+  - AGENTS.md
+
+model: gemini/gemini-3.1-flash-lite
+weak-model: gemini/gemma-4-31b-it
+auto-commits: false
